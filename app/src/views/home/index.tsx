@@ -26,6 +26,7 @@ export const HomeView: FC = ({ }) => {
 
   function getProvider() {
     if (!wallet) {
+      notify({ type: 'error', message: `Please connect wallet`, description: "", txid: "" });
        return null;
     }
     
