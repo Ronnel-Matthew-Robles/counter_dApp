@@ -1,0 +1,31 @@
+{
+  "../../node_modules/@solana/wallet-adapter-blocto/lib/esm/adapter.js -> @blocto/sdk": {
+    "id": null,
+    "files": []
+  },
+  "../../node_modules/@solana/wallet-adapter-ledger/lib/esm/adapter.js -> @ledgerhq/hw-transport-webhid": {
+    "id": null,
+    "files": []
+  },
+  "../../node_modules/@solana/wallet-adapter-solflare/lib/esm/adapter.js -> @solflare-wallet/sdk": {
+    "id": 7916,
+    "files": [
+      "static/chunks/916.61155612bda48a12.js"
+    ]
+  },
+  "../../node_modules/@solana/wallet-adapter-sollet/lib/esm/base.js -> @project-serum/sol-wallet-adapter": {
+    "id": 6770,
+    "files": [
+      "static/chunks/770.5d5c44024e1e799a.js"
+    ]
+  },
+  "../../node_modules/@solana/wallet-adapter-torus/lib/esm/adapter.js -> @toruslabs/solana-embed": {
+    "id": 7759,
+    "files": [
+      "static/chunks/29107295.a2d0c8e72019a3ed.js",
+      "static/chunks/17-4ae9825d83d5af53.js",
+      "static/chunks/759.79990d59ed21dd40.js",
+      "static/chunks/75.db7e731aeb250412.js"
+    ]
+  }
+}
